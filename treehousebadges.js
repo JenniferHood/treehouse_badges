@@ -14,7 +14,7 @@ $.ajax(url).done(showBadges);
 	 }
  };
 
-
+//TODO 
 //  var user = new badgeGrid('body', results){
 	// 	 user.render();
 	//  }
